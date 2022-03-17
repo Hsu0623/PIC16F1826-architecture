@@ -1,0 +1,102 @@
+m255
+K3
+13
+cModel Technology
+Z0 dD:\homework\Computer_System_design\LAB12
+vcpu
+Z1 !s100 U;1okmOz8llaMIdIlAE]Y2
+Z2 Ikg=XZ[6VFZQz:QK46>ID91
+Z3 VZ;dR=W12of??hbh2kcObP1
+Z4 dD:\homework\Computer_System_design\LAB13
+Z5 w1609159161
+Z6 8D:/homework/Computer_System_design/LAB13/cpu.v
+Z7 FD:/homework/Computer_System_design/LAB13/cpu.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|D:/homework/Computer_System_design/LAB13/cpu.v|
+Z10 o-work work -O0
+Z11 !s108 1609159650.454000
+Z12 !s107 D:/homework/Computer_System_design/LAB13/cpu.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vProgram_Rom
+!i10b 1
+Z13 !s100 z>9QzBO2@QGK4^BlN2F4m0
+Z14 Ia0G4c:Pg6zI;z0hmY962P3
+Z15 V[J?EiRjB;A1Y`=EzF>j9K0
+R4
+Z16 w1609159630
+Z17 8D:/homework/Computer_System_design/LAB13/Program_Rom.v
+Z18 FD:/homework/Computer_System_design/LAB13/Program_Rom.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1609159651.363000
+!s107 D:/homework/Computer_System_design/LAB13/Program_Rom.v|
+Z19 !s90 -reportprogress|300|-work|work|D:/homework/Computer_System_design/LAB13/Program_Rom.v|
+!s101 -O0
+R10
+Z20 n@program_@rom
+vsingle_port_ram_128x8
+Z21 !s100 GkWho8EVRQmko`XddGcE50
+Z22 ICjTFPZ4VijSc[hj0B]dBE1
+Z23 VzZNV<GVAnfl2nc:TUS4Zc0
+R4
+Z24 w1605629630
+Z25 8D:/homework/Computer_System_design/LAB13/RAM.v
+Z26 FD:/homework/Computer_System_design/LAB13/RAM.v
+L0 4
+R8
+r1
+31
+Z27 !s90 -reportprogress|300|-work|work|D:/homework/Computer_System_design/LAB13/RAM.v|
+R10
+Z28 !s108 1609159650.708000
+Z29 !s107 D:/homework/Computer_System_design/LAB13/RAM.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vstack
+Z30 !s100 88hQLT6aVK3dCnG@4MKfe0
+Z31 IXcJ8XTfFg7>][K4MRlSRd1
+Z32 VWPZMb5BXYKKC[=?Ri`_=K0
+R4
+Z33 w1608517787
+Z34 8D:/homework/Computer_System_design/LAB13/stack.v
+Z35 FD:/homework/Computer_System_design/LAB13/stack.v
+L0 1
+R8
+r1
+31
+Z36 !s90 -reportprogress|300|-work|work|D:/homework/Computer_System_design/LAB13/stack.v|
+R10
+Z37 !s108 1609159651.018000
+Z38 !s107 D:/homework/Computer_System_design/LAB13/stack.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestbench
+Z39 !s100 `42lOUHhGVNR5=MX9z[7L0
+Z40 I1XhzjLZOCizaIce8mUSCP0
+Z41 VGdUiEZgaMiVEi@bgHJeE13
+R4
+Z42 w1609159280
+Z43 8D:/homework/Computer_System_design/LAB13/testbench.v
+Z44 FD:/homework/Computer_System_design/LAB13/testbench.v
+L0 1
+R8
+r1
+31
+Z45 !s90 -reportprogress|300|-work|work|D:/homework/Computer_System_design/LAB13/testbench.v|
+R10
+Z46 n@testbench
+!i10b 1
+!s85 0
+Z47 !s108 1609159651.180000
+Z48 !s107 D:/homework/Computer_System_design/LAB13/testbench.v|
+!s101 -O0
