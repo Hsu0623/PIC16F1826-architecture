@@ -1,0 +1,42 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Mon Dec 28 20:46:11 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000026
+                   .cinit    romdata   0x000013    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000014      
+            21 out of 2311 program addresses used, program memory utilization is 0%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+             _.org_0_0012   0x000012    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+                     exit   0x000012    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+            initialize_hr   0x000007    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+           initialize_min   0x00000a    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+                 minCount   0x00000e    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+                    start   0x000000    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x000000    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+            initialize_hr   0x000007    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+           initialize_min   0x00000a    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+                 minCount   0x00000e    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+             _.org_0_0012   0x000012    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+                     exit   0x000012    program     static D:\homework\Computer_System_design\LAB13\register_addressing\register_addressing.asm
+
+
